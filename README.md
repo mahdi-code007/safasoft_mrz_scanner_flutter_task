@@ -5,7 +5,11 @@ https://github.com/mahdi-code007/safasoft_mrz_scanner_flutter_task/assets/589109
 
 ## Screenshots
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58910931/263476134-caa1728d-226d-4a51-be83-f5425f68eb55.jpg" width="250">&nbsp;
-![Screenshot_2023-08-26-18-37-02-481_com example safasoft_mrz_scanner_flutter_task](https://github.com/mahdi-code007/safasoft_mrz_scanner_flutter_task/assets/58910931/c354d9ca-66bf-45b1-99ff-829986459a08)
+<img src="https://user-images.githubusercontent.com/58910931/263476118-c354d9ca-66bf-45b1-99ff-829986459a08.jpg" width="250">&nbsp;
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58910931/263476337-69febf04-6a70-46e7-bcc4-1fcee5a086d5.jpg" width="250">&nbsp;
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58910931/263476347-a6373415-e099-4949-a632-69f4b1bc8945.jpg" width="250">&nbsp;
+
+
 
 
 ## Built With
