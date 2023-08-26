@@ -1,5 +1,7 @@
 # safasoft_mrz_scanner_flutter_task
 
+## [Demo (apk)](https://www.mediafire.com/file/engdzlgg4ntt6rd/Safasoft+Task.apk/file)
+
 ## Screen Record
 https://github.com/mahdi-code007/safasoft_mrz_scanner_flutter_task/assets/58910931/c3275f86-5be6-4cad-98fd-cc1c4ea05a45
 
