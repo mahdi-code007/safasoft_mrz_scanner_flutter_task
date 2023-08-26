@@ -76,15 +76,6 @@ class ScanMRZCubitSolution2 extends Cubit<ScanMRZStateSolution2> {
       await navigator.push(
           MaterialPageRoute(builder: (context) => const StoredResultPageSolution2(),)
       );
-      if(recognizedText.isNotEmpty){
-
-      }else{
-        ScaffoldMessenger.of(context).showSnackBar(
-          const SnackBar(
-            content: Text('Empty text'),
-          ),
-        );
-      }
 
     } catch (e) {
       emit(state.copyWith(isLoading: false));

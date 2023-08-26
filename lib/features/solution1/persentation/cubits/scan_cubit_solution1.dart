@@ -40,7 +40,7 @@ class ScanMRZCubitSolution1 extends Cubit<ScanMRZStateSolution1> {
       mRZModelSolution1.add(mrzModel);
       emit(state.copyWith(isLoading: false));
       await navigator.push(
-          MaterialPageRoute(builder: (context) => StoredResultPageSolution1(),)
+          MaterialPageRoute(builder: (context) => const StoredResultPageSolution1(),)
       );
       if(recognizedText.isNotEmpty){
 

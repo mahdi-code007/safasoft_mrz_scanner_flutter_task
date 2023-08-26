@@ -75,8 +75,16 @@ class HomePage extends StatelessWidget {
         padding: const EdgeInsets.all(24),
         child: Center(
           child: Column(
-            mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
+              index == 0
+                  ? const Text('This solution using package(mrz_scanner)',
+                      style: TextStyle(
+                          fontSize: 14, overflow: TextOverflow.ellipsis))
+                  : const Text('This solution using package(google_mlkit_text_recognition)',
+                      style: TextStyle(
+                          fontSize: 14, overflow: TextOverflow.ellipsis ),
+              textAlign: TextAlign.center,
+              maxLines: 2,),
               Lottie.asset('assets/mrz_scan.json'),
               const SizedBox(
                 height: 60,
@@ -86,14 +94,19 @@ class HomePage extends StatelessWidget {
                       fontSize: 16,
                       fontWeight: FontWeight.bold,
                       overflow: TextOverflow.ellipsis)),
+              const SizedBox(
+                height: 60,
+              ),
               ElevatedButton.icon(
                 onPressed: () {
                   index == 0
                       ? Navigator.of(context).push(MaterialPageRoute(
-                          builder: (context) => const StoredResultPageSolution1(),
+                          builder: (context) =>
+                              const StoredResultPageSolution1(),
                         ))
                       : Navigator.of(context).push(MaterialPageRoute(
-                          builder: (context) => const StoredResultPageSolution2(),
+                          builder: (context) =>
+                              const StoredResultPageSolution2(),
                         ));
                 },
                 label: const Text('Show Stored MRZ'),
