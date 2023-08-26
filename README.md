@@ -3,7 +3,8 @@
 ## Screen Record
 https://github.com/mahdi-code007/safasoft_mrz_scanner_flutter_task/assets/58910931/c3275f86-5be6-4cad-98fd-cc1c4ea05a45
 
-![Screenshot_2023-08-26-18-37-10-897_com example safasoft_mrz_scanner_flutter_task](https://github.com/mahdi-code007/safasoft_mrz_scanner_flutter_task/assets/58910931/caa1728d-226d-4a51-be83-f5425f68eb55)
+## Screenshots
+<img src="[https://i.ibb.co/nRvmQzz/Screenshot-1691837332.png](https://github.com/mahdi-code007/safasoft_mrz_scanner_flutter_task/assets/58910931/caa1728d-226d-4a51-be83-f5425f68eb55)" width="250">&nbsp;
 ![Screenshot_2023-08-26-18-37-02-481_com example safasoft_mrz_scanner_flutter_task](https://github.com/mahdi-code007/safasoft_mrz_scanner_flutter_task/assets/58910931/c354d9ca-66bf-45b1-99ff-829986459a08)
 
 
