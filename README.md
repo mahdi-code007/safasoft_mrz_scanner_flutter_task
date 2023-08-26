@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+https://github.com/mahdi-code007/safasoft_mrz_scanner_flutter_task/assets/58910931/c3275f86-5be6-4cad-98fd-cc1c4ea05a45
+
